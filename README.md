@@ -14,10 +14,7 @@ Using various machine learning models, including:
 Each model has its own strategy for predicting the outcome, much like different characters solving a mystery in their unique ways.
 4. Evaluation: Finding the Best Performer
 We evaluate the models using metrics like R² score and Mean Squared Error. Our best performer, the Gradient Boost Regressor, achieved an accuracy of 88%, proving to be the most reliable predictor.
-5. Deployment: Applying Insights in Real World
-The model is deployed using a Flask application, allowing users to input their concrete mix values and get instant strength predictions. This tool is useful for anyone looking to optimize concrete mixes, whether for safety, cost, or performance.
-The Impact: Why This Matters
-Concrete is the foundation of modern infrastructure. Optimizing its mix design can lead to safer buildings, cost savings, and reduced environmental impact. This project demonstrates how data science can be used to make meaningful improvements in construction and beyond.
+
 Why This Project Stands Out
 The approach taken here is not just about predicting numbers but about telling a story through data. It showcases skills in:
 •	Data Analysis & Feature Engineering
